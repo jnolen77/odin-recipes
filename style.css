@@ -10,6 +10,11 @@
     text-align: center;
 }
 
+#paraTwo {
+    text-align: center;
+    background-color: aquamarine;
+    margin-bottom: -20px;
+}
 li {
     margin-bottom: 8px;
 }
@@ -21,4 +26,3 @@ li {
     padding-bottom: 20px;
     
 }
-
