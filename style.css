@@ -1,0 +1,23 @@
+.title {
+    background-color: blue;
+    color: aliceblue;
+    text-align: center;
+    border-radius: 2ch;
+}
+
+#intro {
+    text-align: center;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+.recipes {
+    background-color: bisque;
+    margin: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
