@@ -1,0 +1,14 @@
+#clickMe {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+#clickNo {
+    background-color: yellow;
+}
+
+.buttonLeft, .buttonRight {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
