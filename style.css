@@ -6,23 +6,68 @@
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
+.p_element {
+    display: flex;
+}
+
 #intro {
     text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 #paraTwo {
     text-align: center;
     background-color: aquamarine;
-    margin-bottom: -20px;
+    padding: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 1ch;
 }
+
+a {
+    text-decoration: none;
+}
+
+.list {
+    display: inline-flex;
+}
+
 li {
-    margin-bottom: 8px;
+    list-style: none;
 }
 
 .recipes {
     background-color: bisque;
-    margin: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
     padding-top: 20px;
     padding-bottom: 20px;
-    
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline-flex;
+}
+
+.list1 {
+    border-style: solid;
+    padding: 5px;
+    margin-right: 2px;
+    text-align: center;
+}
+.list2  {
+    border-style: solid;
+    padding: 5px;
+    margin-right: 2px;
+    text-align: center;
+}
+.list3 {
+    border-style: solid;
+    padding: 5px;
+    margin-right: 5px;
+    text-align: center;
+}
+button {
+    text-decoration: none;
+    padding: 10px;
+    margin-left: 100px;
 }
